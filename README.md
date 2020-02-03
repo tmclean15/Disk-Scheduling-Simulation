@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This project contains two programs that provide a command-line interface to simulate
 two disk-scheduling algorithms; first come first served, and shortest seek time first. 
