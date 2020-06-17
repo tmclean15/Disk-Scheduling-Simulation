@@ -3,8 +3,7 @@
 This project contains two programs that provide a command-line interface to simulate
 two disk-scheduling algorithms; first come first served, and shortest seek time first. 
 It is intended for learning purposes, and for simulating how the number of file requests
-affects the performance of these algorithms. The source code is provided for illustrative
-purposes.
+affects the performance of these algorithms.
 
 ## Installation
 
